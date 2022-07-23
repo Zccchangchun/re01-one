@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>周长春zy3</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body style="background-color:white;
+  ">
+    <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:10px;
+    ">
+      <img src="https://i.postimg.cc/qqH0j0dV/image.jpg" alt="周长春" width="80px" height="80px">
+    </div>
+    <div style="height:650px">
+      <div style="display:flex;
+      height:200px;
+      text-align:center;
+      padding:10px;
+      ">
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        
+        ">
+        <a href="xxxxxxxxxxxxxxxxxxx机器学习链接">机器学习</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxxxxxxxxxxxxxxx数据分析链接">数据分析</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxxxxxxxxxxxxxxpython学习链接">python</a>
+        </div>
+      </div>
+      <div style="display:flex;
+      height:200px;
+      text-align:center;
+      padding:10px;
+      ">
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxxxxxxxxxxxxxxhtml学习链接">html</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxxxxxxxxxxxxcss学习链接">css</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxxxxxxxxjs学习链接">javascript</a>
+        </div>
+      </div>
+      <div style="display:flex;
+      height:200px;
+      text-align:center;
+      padding:10px;
+      ">
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="剪辑技术与运营链接">ps/pr/ae/运营</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxx读书清单链接">读书清单</a>
+        </div>
+        <div style="background-color:yellow;
+        width:310px;
+        border:lightgrey 10px solid;
+        padding-top:75px;
+        padding-bottom:75px;
+        ">
+        <a href="xxxxxx工作与简历链接">工作与简历</a>
+        </div>
+      </div>
+    </div>
+    <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:10px;
+    font-size:18px;
+    ">
+    <p>我的网站</p>
+    <a href=" https://zccchangchun.github.io/re01-one/">友情链接</a>
+    </div>
+  </body>
+</html>
